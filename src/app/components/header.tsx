@@ -9,7 +9,6 @@ import { on } from "events";
 const links = [
   { href: "/", label: "Home" },
   { href: "/our-team", label: "Our Team" },
-  { href: "/about-us", label: "About Us" },
 ];
 
 const auth = [
